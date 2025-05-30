@@ -17,29 +17,24 @@ To identify and analyze the key factors (such as designation, experience, compan
 ## 3.Main Project Phases:
 
 1. **Python:**
-   1.1 Data Cleaning & Preprocessing: Transforming raw data into a clean, consistent, and usable format.
-   1.2 Exploratory Data Analysis: Discovering patterns, anomalies, and relationships within the data
-   1.3 Feature Engineering: preparing it for deeper analysis
+   1. Transforming raw data into a clean, consistent, and usable format.
+   2. Discovering patterns, anomalies, and relationships within the data
+   3. preparing it for deeper analysis
 2. **SQL:**
-   2.1 Verify data import accuracy and completeness
-   2.2 Check for data type consistency
-   2.3 Validate categorical values and ranges
-   2.4 Analysis:
-
+   1. Verify data import accuracy and completeness
+   2. Check for data type consistency
+   3. Validate categorical values and ranges
+   4. Analysis:
    - Salary analysis by job category
    - Experience level impact on compensation
    - Geographic salary variations by continent and country
    - Remote work vs. on-site salary comparisons
    - Company size correlation with salary levels
-     2.5 Advanced Analysis:
+   5. Advanced Analysis:
    - Window functions for salary rankings and percentiles
    - Aggregations for statistical summaries (median, quartiles, standard deviation)
-     2.6 Create reusable views for common analysis patterns
-     2.7 Add indexes for frequently queried columns
+   6. Create reusable views for common analysis patterns
 
 3. **Power BI:**
-   3.1 Data Modeling: Creating relationships, calculated columns, and DAX measures
-   3.2 Interactive Dashboard Development: Building user-friendly, filterable visualizations
-   3.3 Advanced Analytics: Trend analysis, forecasting, and what-if scenarios
-   3.4 Performance Tuning: Optimizing dashboard load times and responsiveness
-   3.5 Deployment & Sharing: Publishing to Power BI Service with appropriate security settings
+   1. Creating relationships, calculated columns, and DAX measures
+   2. Building user-friendly, filterable visualizations
