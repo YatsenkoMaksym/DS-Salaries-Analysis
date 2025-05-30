@@ -38,3 +38,12 @@ To identify and analyze the key factors (such as designation, experience, compan
 3. **Power BI:**
    1. Creating relationships, calculated columns, and DAX measures
    2. Building user-friendly, filterable visualizations
+  
+## Files in this Repository
+- `ds_salaries.csv`: Original raw dataset.
+- `ds_salaries_2.csv`: Dataset after initial cleaning and preprocessing.
+- `exploration.ipynb`: Jupyter Notebook containing Python code for data cleaning, EDA, and feature engineering.
+- `ds_salaries_postgres.sql`: SQL script for database setup.
+- `exploration.sql`: SQL script for exploration.
+- `DS Salaries.pbix`: Power BI.
+
